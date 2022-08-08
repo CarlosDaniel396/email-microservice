@@ -6,6 +6,7 @@ Aula prática de como criar um microservice para envio de email com Spring Boot 
 ir em resources, e colocar eles em application.properties:
 
 ````
+# Caminho para o arquivo
 src/main/resources
 ````
 
