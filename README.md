@@ -1,4 +1,4 @@
-# email-microservice
+# Email-microservice
 
 Microsserviço de Email desenvolvido em um treinamento da Michelli Brito.
 
