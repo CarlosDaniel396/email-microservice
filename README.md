@@ -2,7 +2,7 @@
 
 Microsserviço de Email desenvolvido em um treinamento da Michelli Brito.
 
-Aula prática de como criar um microservice para envio de email com Spring Boot e Spring Mail(Com o email e senha gerada por cada usuário).
+Aula prática de como criar um microservice para envio de email com Spring Boot e Spring Mail(Com o email e senha gerados por cada usuário).
 ir em resources, e colocar eles em: 
 
 spring.mail.username=******@gmail.com
